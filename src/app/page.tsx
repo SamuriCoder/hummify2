@@ -315,7 +315,9 @@ export default function Home() {
     <main className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-background to-black p-4">
       <div className="w-full max-w-xl mx-auto">
         <h1 className="text-5xl font-extrabold text-center mb-8 tracking-tight text-white drop-shadow-lg">
-          <span className="bg-gradient-to-r from-primary to-purple-400 bg-clip-text text-transparent">Humm</span>ify
+          <span className="bg-gradient-to-r from-primary to-purple-400 bg-clip-text text-transparent">Humm</span>
+          ify
+          <span className="bg-gradient-to-r from-primary to-purple-400 bg-clip-text text-transparent ml-1"> 2.0</span>
         </h1>
         <div className="card mb-10">
           {/* Improved Round/Score UI */}
